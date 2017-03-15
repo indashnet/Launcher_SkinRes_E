@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="default_custom_icon_group">1</integer><!-- from 0 -->
+    
+    <bool name="hotseat_icon_use_background">true</bool><!--   -->
+    <bool name="hotseat_title_show">true</bool><!--   -->
+    <bool name="is_loop_use_app_background">true</bool><!--   -->
+    
+    <drawable name="app_item_backgroup">@drawable/icon_arround1</drawable><!--   -->
+    
+    <drawable name="all_app_icon">@drawable/all_apps_namol</drawable><!-- -->
+    
+    <bool name="can_slide_worksqpce">true</bool><!--  -->
+    <bool name="is_show_radiogroup_indicator">false</bool><!--   -->
+    <bool name="is_hide_all_app_tabs">false</bool><!--   -->
+    
+    <!-- <drawable name="workspace_background_drawable">@null</drawable> --><!--   -->
+    
+    <drawable name="workspace_top_background_drawable">@null</drawable><!--   -->
+    <drawable name="workspace_bottom_background_drawable">@null</drawable><!--   -->
+    <drawable name="hotseat_background_drawable">@null</drawable><!--   -->
+    
+    <drawable name="workspace_top_src_drawable">@drawable/workspace_top_background_drawable</drawable><!--   -->
+    <drawable name="workspace_bottom_src_drawable">@drawable/workspace_bottom_background_drawable</drawable><!--   -->
+    <drawable name="hotseat_src_drawable">@drawable/hotseat_bg</drawable><!--   -->
+    
+    
+    <bool name="is_hide_minit_clock">true</bool><!--   -->
+    <bool name="is_apps_transparent">true</bool><!--   -->
+    <bool name="is_hide_set_background_btn">true</bool><!--   -->
+</resources>

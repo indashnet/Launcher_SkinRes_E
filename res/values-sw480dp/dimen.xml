@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="adjust_hotseat_icon_size">14dp</dimen><!--  -->
+    <dimen name="workspace_adjust_padding_top_value">0dp</dimen><!--   -->
+    
+    <dimen name="hotseat_adjust_padding_top_value">38dp</dimen>
+</resources>

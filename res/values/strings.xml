@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">SkinRes_E</string>
+
+    <!--   -->
+    <string-array name="set_backgroud_title">
+        <item >BG1</item>
+        <item >BG2</item>
+        <item >BG3</item>
+        <item >BG4</item>
+        <item >BG5</item>
+        <item >BG6</item>
+        <item >BG7</item>
+    </string-array>
+    <!--   -->
+    <integer-array name="set_backgroud_imageid">
+        <item>@drawable/icon_arround1</item>
+        <item>@drawable/icon_arround2</item>
+        <item>@drawable/icon_arround3</item>
+        <item>@drawable/icon_arround5</item>
+        <item>@drawable/icon_arround4</item>
+        <item>@drawable/icon_arround6</item>
+    </integer-array>
+    
+</resources>

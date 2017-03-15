@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_offset_top">0px</dimen><!--  -->
+    
+    <dimen name="icon_padding">18px</dimen><!--   -->
+    <dimen name="adjust_hotseat_icon_size">10px</dimen><!--  -->
+    <dimen name="adjust_icon_size">10px</dimen><!--   -->
+    
+    <dimen name="adjust_workspace_cell_width">0px</dimen><!--   -->
+    <dimen name="adjust_workspace_cell_hight">8dp</dimen>
+    
+    <dimen name="adjust_hotseat_cell_width">0px</dimen><!--   -->
+    <dimen name="adjust_hotseat_cell_hight">10px</dimen>
+    <dimen name="adjust_hotseat_width_gap">10px</dimen><!--   -->
+    <dimen name="adjust_hotseat_hight_gap">0px</dimen><!--   -->
+    
+    
+    <integer-array name="hotseat_icon_nomal">
+        <item >@drawable/media_nomal</item>
+        <item >@drawable/network_namol</item>
+        <item >@drawable/home_namol</item>
+        <item >@drawable/setting_namol</item>
+    </integer-array>
+    <integer-array name="hotseat_icon_select_out">
+        <item >@drawable/media_select</item>
+        <item >@drawable/network_select</item>
+        <item >@drawable/home_select</item>
+        <item >@drawable/setting_select</item>
+    </integer-array>
+    
+    <string-array name="hotseat_screen_title">
+        <item >Media</item>
+        <item >Network</item>
+        <item >Home</item>
+        <item >Settings</item>
+    </string-array>
+    <drawable name="nav_select_background">@drawable/hoteast_app_bg</drawable><!-- @drawable/hoteast_app_bg -->
+    
+    <dimen name="workspace_adjust_padding_top_value">0dp</dimen><!--   -->
+    <dimen name="hotseat_adjust_padding_top_value">28dp</dimen><!-- -->
+    
+</resources>
